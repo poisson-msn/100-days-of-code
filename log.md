@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 21, 2020
+### Day 1: June 21, 2020
 ##### a rainy sunday
 
 **Today's Progress**:
@@ -13,4 +13,16 @@ No matter how terrible the writing might be, I never give up.
 
 **Link to work**:
 https://campus.datacamp.com/courses/machine-learning-for-everyone/what-is-machine-learning?ex=1
+
+
+### Day 2: June 22, 2020
+##### monday
+
+**Today's Progress**:
+1. In "Python実践入門", I achieved chapter3. 
+
+**Thoughts**:
+It's hard to continue keeping going on.
+
+**Link to work**:
 
